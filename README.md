@@ -1,6 +1,6 @@
-# vue-pwa
+# Nanzan School Song A cappella
 
-> A Vue.js project
+> vue init pwa を元に、abcjsを使って譜面作成、公開。
 
 ## Build Setup
 
